@@ -431,3 +431,15 @@ Argument name                       Required    Default              Description
     LOC_Os05g41060.1        508     Chr5    24059754        GGCTT   2         2         2         1         1         1         63
 
 ```
+
+## Citation
+If you use the code or data in this package, please cite:
+
+You Wu, Wenna Shao, Shuai Liu, Liyuan Wang, Pengfei Xu, Xingpeng Zhang, Haihan Song, Xiaofei Li, Jian Wang, Xiang Yu,
+Simultaneous profiling of ac4C and m5C modifications from nanopore direct RNA sequencing,
+International Journal of Biological Macromolecules,
+Volume 305, Part 1,
+2025,
+140863,
+ISSN 0141-8130,
+https://doi.org/10.1016/j.ijbiomac.2025.140863.
